@@ -1,0 +1,36 @@
+{
+  "name": "master-thesis",
+  "version": "1.0.0",
+  "description": "This is the software i develop for my master thesis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finnatinform/master-thesis.git"
+  },
+  "keywords": [
+    "Data",
+    "Mining"
+  ],
+  "author": {
+    "name": "Finn Zentgraf",
+    "url": "www.inform-software.com",
+    "email": "finn.zentgraf@inform-software.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finnatinform/master-thesis/issues"
+  },
+  "homepage": "https://github.com/finnatinform/master-thesis#readme",
+  "devDependencies": {
+    "@types/fs-extra": "^9.0.1",
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "reflect-metadata": "^0.1.13",
+    "tsyringe": "^4.3.0"
+  }
+}
