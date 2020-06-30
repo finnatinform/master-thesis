@@ -1,0 +1,1 @@
+import "reflect-metadata"; // !!! IMPORTANT, DO NOT DELETE !!!

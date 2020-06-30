@@ -2,6 +2,10 @@
 ## About This Project
 This is the software i develop for my master thesis.
 
+## Current TODOs
+These are the topics, which i am currently working on.
+* Dependency Injection with [tsyringe](https://github.com/microsoft/tsyringe)
+
 ## System Requirements
 There are some system requirements, which are listed below.
 

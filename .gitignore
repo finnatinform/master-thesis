@@ -1,0 +1,12 @@
+# NPM Stuff
+node_modules/
+
+# WebStorm Stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Project Stuff
+dist/
